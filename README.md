@@ -1,1 +1,3 @@
-# tic-tac-toe-v2
+# Tic Tac Toe With React
+## طراحی الگوریتم استاد صالحی
+## خشایار یغما | Khashayar yaghma 
