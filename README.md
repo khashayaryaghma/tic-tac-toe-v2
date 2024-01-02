@@ -14,6 +14,15 @@
 
 ### کامند اجرای پروژه به صورت لوکال:
 
+### First:
+```
+npm i
+or
+yarn install
+or
+pnpm i
+```
+### Then:
 ```
 npm start
 or
